@@ -15,6 +15,10 @@
            <input type="text" class="form-control" id="tilte" name="title" placeholder="Nome do evento..">
        </div>
        <div class="form-grup">
+           <label for="title">Data do Evento</label>
+           <input type="date" class="form-control" id="date" name="date">
+       </div>
+       <div class="form-grup">
            <label for="title">Cidade</label>
            <input type="text" class="form-control" id="city" name="city" placeholder="local do evento">
        </div>
